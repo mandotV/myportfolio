@@ -59,9 +59,10 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Sep 2023",
       endDate: "Aug 2025",
       summary:[
-        "Delivered end-to-end support for client web applications, resolving critical bugs and implementing feature enhancements to improve system stability.",
-        "Managed a music-focused web platform utilizing a CakePHP backend and jQuery frontend to ensure seamless user experiences.",
-        "Oversaw deployment pipelines across staging and production environments using Ubuntu Server, maintaining high availability and deployment integrity.",
+        "Built and deployed enterprise-grade ERP systems from scratch, facilitating digital transformation for major production firms in the Cebu region.",
+        "Streamlined the transition from development to production through DevOps processes and proactive client-side troubleshooting.",
+        "Designed core workflows, wireframes, and backend API logic for diverse subsystems, bridging the gap between business requirements and technical execution.",
+        "Conducted comprehensive staging tests and code reviews to ensure scalability and high performance in huge project environments."
       ]
     },
     {
